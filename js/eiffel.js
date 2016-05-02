@@ -13,7 +13,7 @@ function init() {
 	tour_eiffel_sounds = [];
 
 	// check folder
-	var sound_count = 13;
+	var sound_count = 14;
 
 	for(i=1; i<=sound_count; i++) 
 	tour_eiffel_sounds.push(
